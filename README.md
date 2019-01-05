@@ -10,3 +10,6 @@ Purpose of this project is to change static website into responsive one. Respons
 Python 2: `python -m SimpleHTTPServer 8000`
 Python 3: `python -m http.server 8000`
 - View this site in your browser at `http://localhost:8000`
+
+## Reference
+Starter code was provided by Udacity.
